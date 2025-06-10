@@ -6,8 +6,8 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="120"/>
 </div>
 <div id="badges" align="center">
-  <a href="https://vk.com/frostray1"><img src="https://raw.githubusercontent.com/github/explore/b9118a25126aa8eb71413d5819c6c517aeb4d0bb/topics/vk/vk.png" width="50" height = "50"  alt="vk"/></a>
-  <a href="https://t.me/frostray1"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png" width="50" height = "50"  alt="vk"/></a>
+  <a href="https://vk.com/ArtemBychkovDev"><img src="https://raw.githubusercontent.com/github/explore/b9118a25126aa8eb71413d5819c6c517aeb4d0bb/topics/vk/vk.png" width="50" height = "50"  alt="vk"/></a>
+  <a href="https://t.me/ArtemBychkovDev"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png" width="50" height = "50"  alt="vk"/></a>
   <a href="https://instagram.com/frostray"><img src="https://raw.githubusercontent.com/github/explore/06c46459e7947c8a25f72798af696d66e202ac39/topics/instagram/instagram.png" width="50" height = "50"  alt="vk"/></a>
   </div>
 <br>
@@ -40,9 +40,9 @@
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/google/google.png" title="Sass" alt="Sass" width="45" height="45"/>
 </div>
 <div id="icon" align="center">
-<img src=http://github-profile-summary-cards.vercel.app/api/cards/stats?username=frostray1&theme=github_dark alt=Artem Bychkov /> 
-<img src=http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=frostray1&theme=github_dark alt=Artem Bychkov /> 
-  <img height=160 alt="bdfd most used language board" src="https://github-readme-streak-stats.herokuapp.com/?user=frostray1&theme=react&border=61dafb&hide_border=true" />
+<img src=http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ArtemBychkovDev&theme=github_dark alt=Artem Bychkov /> 
+<img src=http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ArtemBychkovDev&theme=github_dark alt=Artem Bychkov /> 
+  <img height=160 alt="bdfd most used language board" src="https://github-readme-streak-stats.herokuapp.com/?user=ArtemBychkovDev&theme=react&border=61dafb&hide_border=true" />
 <br>
   <br>
 </div>
